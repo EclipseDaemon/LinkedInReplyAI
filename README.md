@@ -14,3 +14,4 @@ LinkedIn Reply AI is a Chrome extension that helps users quickly generate and in
 <li>On chrome click extension symbol again there you can see <b>wxt-react-starter</b> click it and follow the further procedure. </li>
 </ul>
 
+https://github.com/user-attachments/assets/6abcff56-b108-4be8-b885-8732a74b4c62
